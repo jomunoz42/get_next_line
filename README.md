@@ -60,14 +60,6 @@ Working on Get Next Line provided practical experience with:
 
 ---
 
-## 🚀 Compilation
-
-```bash
-make
-```
-
----
-
 ## ▶️ Usage
 
 Example usage inside another C program:
